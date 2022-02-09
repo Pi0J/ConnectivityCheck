@@ -1,0 +1,2 @@
+Port 135 seems to be opened
+Port 139 seems to be opened
